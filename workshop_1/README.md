@@ -11,7 +11,12 @@ pip3 install -r requirements.txt
 ```
 
 3. Download data
-TBD
+
+We will use the Product Backorder dataset, more details:   
+https://www.kaggle.com/tiredgeek/predict-bo-trial 
+
+Direct download link:   
+https://drive.google.com/file/d/0Bw4VaTA4yvi3RWh0NnoxWFl2a3c/view?usp=sharing 
 
 ## Preprocessing & model definition
 
