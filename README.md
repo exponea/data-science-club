@@ -30,8 +30,8 @@ Data Science Club by Exponea in collaboration with Faculty of Informatics and In
 # Previous Data Science Clubs 
 ## 1. Introduction to Data Science
 **Presentations**
-1. [Welcome and introduction to Data Science Club]() by Jozo Kovac.
-2. [Data Scientists - The New Rock Stars]() by Robert Lacok.
+1. [Welcome and Introduction to Data Science Club](https://docs.google.com/presentation/d/15rL1Zx9ogwtTYQoOWXDxCWkZSNA5r-oXI037zDIgqN4/edit?usp=sharing) by Jozo Kovac.
+2. [Data Scientists - The New Rock Stars](https://docs.google.com/presentation/d/1LenEj02xTPRdK1J5HCcTdx3IvNvCsJANZZ7qSYoxfl0/edit?usp=sharing) by Robert Lacok.
 
 **Workshop**
 1. [Full-stack introduction to Data Science application development](https://github.com/exponea/data-science-club/tree/master/workshop_1)
