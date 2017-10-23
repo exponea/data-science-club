@@ -10,11 +10,10 @@ Data Science Club by Exponea in collaboration with Faculty of Informatics and In
 | Date          | Topic           | Speakers  |
 | ------------- |---------------| ---------|
 | 16.10.2017    | [Introduction to Data Science](#1-introduction-to-data-science) | Jozo Kovac, Robert Lacok |
-| 30.10.2017    | Map-reduce & Hadoop (batch processing) | TBD |
-| 6.11.2017     | Data-pipelines, integration and storage | TBD |
-| 13.11.2017    | Data streams and real-time analytics | Matus Cimerman |
-| 27.11.2017    | Data visualisation | TBD |
-| 11.12.2017    | Last talk of Winter Semester | TBD |
+| 30.10.2017    | SQL Analytics, DWH & BI | TBD |
+| 13.11.2017     | Data-pipelines, integration and storage | TBD |
+| 27.11.2017    | Data streams and real-time analytics | Matus Cimerman |
+| 11.12.2017    | Data visualisation | TBD |
 
 
 ### Summer semester
