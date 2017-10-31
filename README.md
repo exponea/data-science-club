@@ -10,7 +10,7 @@ Data Science Club by Exponea in collaboration with Faculty of Informatics and In
 | Date          | Topic           | Speakers  |
 | ------------- |---------------| ---------|
 | 16.10.2017    | [Introduction to Data Science](#1-introduction-to-data-science) | Jozo Kovac, Robert Lacok |
-| 30.10.2017    | SQL Analytics, DWH & BI | TBD |
+| 30.10.2017    | [SQL Analytics and DWH, Exploratory data analysis](#2-sql-analytics-and-dwh-exploratory-data-analysis) | Juraj Sottnik, Jakub Sevcech |
 | 13.11.2017     | Data-pipelines, integration and storage | TBD |
 | 27.11.2017    | Data streams and real-time analytics | Matus Cimerman |
 | 11.12.2017    | Data visualisation | TBD |
@@ -34,3 +34,7 @@ Data Science Club by Exponea in collaboration with Faculty of Informatics and In
 
 **Workshop**
 1. [Full-stack introduction to Data Science application development](https://github.com/exponea/data-science-club/tree/master/workshop_1)
+
+## 2. SQL Analytics and DWH, Exploratory data analysis
+1. [How to store data? It depends](https://docs.google.com/presentation/d/1I9g1npKzLUbDhTUSBUSuMAc71C8NLcqZI4Jb-e8LEeo/edit#slide=id.g29325b1889_0_0) by Juraj Sottnik.
+2. [Exploratory data analysis](https://github.com/sevo/pewe-presentations/blob/master/Explorativna_analyza.ipynb) by Jakub Sevcech.
