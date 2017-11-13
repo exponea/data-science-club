@@ -1,0 +1,4 @@
+INSERT INTO stav_objednavky (cislo_stavu_objednavky, nazov_stavu_objednavky) VALUES (0, 'Vybavena');
+INSERT INTO stav_objednavky (cislo_stavu_objednavky, nazov_stavu_objednavky) VALUES (1, 'Otvorena');
+INSERT INTO stav_objednavky (cislo_stavu_objednavky, nazov_stavu_objednavky) VALUES (2, 'Zrusena');
+COMMIT WORK;

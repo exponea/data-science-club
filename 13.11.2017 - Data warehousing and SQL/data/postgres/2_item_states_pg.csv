@@ -1,0 +1,4 @@
+INSERT INTO stav_polozky (cislo_stavu_polozky, nazov_stavu_polozky) VALUES (0, 'Vybavena');
+INSERT INTO stav_polozky (cislo_stavu_polozky, nazov_stavu_polozky) VALUES (1, 'Otvorena');
+INSERT INTO stav_polozky (cislo_stavu_polozky, nazov_stavu_polozky) VALUES (2, 'Zrusena');
+COMMIT WORK;
