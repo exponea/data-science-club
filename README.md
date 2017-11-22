@@ -11,7 +11,7 @@ Data Science Club by Exponea in collaboration with Faculty of Informatics and In
 | ------------- |---------------| ---------|
 | 16.10.2017    | [Introduction to Data Science](#1-introduction-to-data-science) | Jozo Kovac, Robert Lacok |
 | 30.10.2017    | [Data Storage & Exploratory data analysis](#2-data-storage--exploratory-data-analysis) | Juraj Sottnik, Jakub Sevcech |
-| 13.11.2017     | (Game analytics & DWH and SQL Analytics)[#3-game-analytics--dwh-and-sql-analytics] | Tomas Synek (Adastra Slovakia), Matus Nagy (Adastra Slovakia) |
+| 13.11.2017     | [Game analytics & DWH and SQL Analytics](#3-game-analytics--dwh-and-sql-analytics) | Tomas Synek (Adastra Slovakia), Matus Nagy (Adastra Slovakia) |
 | 27.11.2017    | Feature Extraction & Natural Language Processing | Jakub Sevcech, Jakub Macina |
 | 11.12.2017    | Data visualisation | TBD |
 
@@ -41,7 +41,7 @@ Data Science Club by Exponea in collaboration with Faculty of Informatics and In
 
 ## 3. Game analytics & DWH and SQL Analytics
 1. [Why Successful Games Need Analytics](https://www.slideshare.net/data-science-club/why-successful-games-need-analytics) by Ivan Trancik.
-2. [DWH and SQL Analytics]() by Tomas Synek and Matus Nagy.
+2. DWH and SQL Analytics by Tomas Synek and Matus Nagy.
 
 **Workshop**
 1. [SQL Analytics](https://github.com/exponea/data-science-club/tree/master/13.11.2017%20-%20Data%20warehousing%20and%20SQL)
