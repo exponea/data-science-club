@@ -47,5 +47,5 @@ Data Science Club by Exponea in collaboration with Faculty of Informatics and In
 1. [SQL Analytics](https://github.com/exponea/data-science-club/tree/master/13.11.2017%20-%20Data%20warehousing%20and%20SQL)
 
 ## 4. Feature Extraction & Natural Language Processing
-1. [Feature Extraction]() by Jakub Sevcech.
-2. [Introduction to Natural Language Processing]() by Jakub Macina.
+1. [Feature Extraction](https://github.com/exponea/data-science-club/tree/master/27.11.2017%20-%20Feature%20extraction) by Jakub Sevcech.
+2. [Introduction to Natural Language Processing](https://www.slideshare.net/dmacjam/introduction-to-natural-language-processing-85818192) by Jakub Macina.
