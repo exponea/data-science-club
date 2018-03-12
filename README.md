@@ -19,7 +19,7 @@ Data Science Club by Exponea in collaboration with Faculty of Informatics and In
 | Date          | Topic           | Speakers  |
 | ------------- |-------------| -----|
 | 19 February 2018    | [Data integration](#5-data-integration) | Jakub Motyl, Matus Cimerman |
-| TBD    | Data visualisation | TBD |
+| 5 March 2018    | [Data visualisation](#6-data-visualization) | Matej Novotny, Martin Bago |
 | TBD    | Feature Engineering | TBD |
 | TBD    | Model training | TBD |
 | TBD    | Bandit algorithms and reinforcement learning | TBD |
@@ -52,3 +52,7 @@ Data Science Club by Exponea in collaboration with Faculty of Informatics and In
 ## 5. Data integration
 1. [A Big (Query) Frog in a Small Pond](https://www.slideshare.net/data-science-club/a-big-query-frog-in-a-small-pond-jakub-motyl-buffpanel) by Jakub Motyl.
 2. [Batch (Spark) and Streaming (Kafka) Data-Preprocessing](https://www.slideshare.net/data-science-club/batch-spark-and-streaming-kafka-datapreprocessing) by Matus Cimerman.
+
+## 6. Data visualization
+1. [Principles of Big Data Analytics Visualization](https://www.slideshare.net/data-science-club/principles-of-big-data-analytics-visualization)
+2. [How to present campaign results to your boss](https://www.slideshare.net/data-science-club/how-to-present-campaign-results-to-your-boss)
