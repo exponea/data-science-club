@@ -54,5 +54,5 @@ Data Science Club by Exponea in collaboration with Faculty of Informatics and In
 2. [Batch (Spark) and Streaming (Kafka) Data-Preprocessing](https://www.slideshare.net/data-science-club/batch-spark-and-streaming-kafka-datapreprocessing) by Matus Cimerman.
 
 ## 6. Data visualization
-1. [Principles of Big Data Analytics Visualization](https://www.slideshare.net/data-science-club/principles-of-big-data-analytics-visualization)
-2. [How to present campaign results to your boss](https://www.slideshare.net/data-science-club/how-to-present-campaign-results-to-your-boss)
+1. [Principles of Big Data Analytics Visualization](https://www.slideshare.net/data-science-club/principles-of-big-data-analytics-visualization) by Matej Novotny
+2. [How to present campaign results to your boss](https://www.slideshare.net/data-science-club/how-to-present-campaign-results-to-your-boss) by Martin Bago
