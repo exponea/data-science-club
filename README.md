@@ -20,7 +20,7 @@ Data Science Club by Exponea in collaboration with Faculty of Informatics and In
 | ------------- |-------------| -----|
 | 19 February 2018    | [Data integration](#5-data-integration) | Jakub Motyl, Matus Cimerman |
 | 5 March 2018    | [Data visualisation](#6-data-visualization) | Matej Novotny, Martin Bago |
-| TBD    | Feature Engineering | TBD |
+| 22 March 2018    | [Feature Engineering](#7-feature-engineering) | Ondrej Brichta, Filip Vitek |
 | TBD    | Model training | TBD |
 | TBD    | Bandit algorithms and reinforcement learning | TBD |
 | TBD    | ML deployment at scale | TBD |
@@ -54,5 +54,9 @@ Data Science Club by Exponea in collaboration with Faculty of Informatics and In
 2. [Batch (Spark) and Streaming (Kafka) Data-Preprocessing](https://www.slideshare.net/data-science-club/batch-spark-and-streaming-kafka-datapreprocessing) by Matus Cimerman.
 
 ## 6. Data visualization
-1. [Principles of Big Data Analytics Visualization](https://www.slideshare.net/data-science-club/principles-of-big-data-analytics-visualization) by Matej Novotny
-2. [How to present campaign results to your boss](https://www.slideshare.net/data-science-club/how-to-present-campaign-results-to-your-boss) by Martin Bago
+1. [Principles of Big Data Analytics Visualization](https://www.slideshare.net/data-science-club/principles-of-big-data-analytics-visualization) by Matej Novotny.
+2. [How to present campaign results to your boss](https://www.slideshare.net/data-science-club/how-to-present-campaign-results-to-your-boss) by Martin Bago.
+
+## 7. Feature engineering
+1. [Feature Engineering on Schemaless Data](https://docs.google.com/presentation/d/1e_E1zqnxux4AHs3Sxu04YOkB00Tqo8z8_KaFw8JUsn4/edit#slide=id.p) by Ondrej Brichta.
+2. [Feature Engineering - Your Trump Card in AI](http://mocnedata.sk/fiit-features/) by Filip Vitek.
