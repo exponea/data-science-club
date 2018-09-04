@@ -4,15 +4,13 @@ Data Science Club (DSC) is a platform, created in 2017 by Exponea in collaborati
 We organise regular meetups every second Monday at 4pm in FIIT. DSC supports transfer of ideas between academic and industry research related to data science, machine learning and AI.
 
 
-**Place of meetups:** [FIIT] building, map link below (https://www.google.sk/maps/place/Faculty+of+Informatics+and+Information+Technologies+of+Slovak+University+of+Technology/@48.1538693,17.0696816,17z/)
+**Place of meetups:** [FIIT] building, map link below:   https://www.google.sk/maps/place/Faculty+of+Informatics+and+Information+Technologies+of+Slovak+University+of+Technology/@48.1538693,17.0696816,17z/
 
 **Time:** 4pm - 7pm
 
 **Landing page:** https://academy.exponea.com/data-science-club/
 
 **Facebook page with events:** https://www.facebook.com/ExponeaSociety/
-
-****
 
 # Schedule
 ### Winter semester 2018/2019
@@ -106,5 +104,5 @@ by Michal Maly.
 ### 9. Deploying AI solutions
 1. _Quantile Regression and its Application in the Insurance Business_ (presentation not available)  
 Peter Carsky.
-2. _Real-Time Personalized Recommendations Using Embeddings (presentation not available)_  
+2. _Real-Time Personalized Recommendations Using Embeddings_ (presentation not available)  
 by Jakub Macina.
