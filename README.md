@@ -30,8 +30,8 @@ We organise regular meetups every second Monday at 4pm in FIIT. DSC supports tra
 | 19 February 2018    | [Data integration](#5-data-integration) | Jakub Motyl, Matus Cimerman |
 | 05 March 2018    | [Data visualisation](#6-data-visualization) | Matej Novotny, Martin Bago |
 | 22 March 2018    | [Feature Engineering](#7-feature-engineering) | Ondrej Brichta, Filip Vitek |
-| 09 April    | Deep learning | TBD |
-| 23 April    | Deploying AI solutions | TBD |
+| 09 April    | Deep learning | Boris Vavrik, Michal Maly |
+| 23 April    | Deploying AI solutions | Peter Carsky, Jakub Macina |
 
 ### Winter semester 2017/2018
 | Date          | Theme           | Speakers  |
