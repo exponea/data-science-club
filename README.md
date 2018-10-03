@@ -18,7 +18,7 @@ We organise regular meetups every second Monday at 4pm in FIIT. DSC supports tra
 ### Winter semester 2018/2019
 | Date          | Theme           | Speakers  |
 | ------------- |---------------| ---------|
-| 01 October 2018    | [Intro and Basics to Data Science] | Dominik Csiba, Renné Donner |
+| 01 October 2018    | [Intro and Basics to Data Science](#1-intro-and-basics-to-data-science) | Dominik Csiba, Renné Donner |
 | 08 October 2018   | Exploratory Analysis | ??? |
 | 22 October 2018     | Data Preprocessing, Handling | ??? |
 | 05 November 2018    | ML and Feature Engineering | ??? |
