@@ -6,6 +6,8 @@ We organise regular meetups every second Monday at 4pm in FIIT. DSC supports tra
 
 **Place of meetups:** [FIIT] building, map link below:   https://www.google.sk/maps/place/Faculty+of+Informatics+and+Information+Technologies+of+Slovak+University+of+Technology/@48.1538693,17.0696816,17z/
 
+**Room:** - 1.65
+
 **Time:** 4pm - 7pm
 
 **Landing page:** https://academy.exponea.com/data-science-club/
@@ -16,22 +18,13 @@ We organise regular meetups every second Monday at 4pm in FIIT. DSC supports tra
 ### Winter semester 2018/2019
 | Date          | Theme           | Speakers  |
 | ------------- |---------------| ---------|
-| 24 September 2018    | Intro and Basics to Data Science | ??? |
+| 01 October 2018    | [Intro and Basics to Data Science] | Dominik Csiba, Renné Donner |
 | 08 October 2018   | Exploratory Analysis | ??? |
 | 22 October 2018     | Data Preprocessing, Handling | ??? |
 | 05 November 2018    | ML and Feature Engineering | ??? |
 | 19 November 2018    | Evaluation | ??? |
 
 # Past events
-
-### Summer semester 2017/2018
-| Date          | Theme           | Speakers  |
-| ------------- |-------------| -----|
-| 19 February 2018    | [Data integration](#5-data-integration) | Jakub Motyl, Matus Cimerman |
-| 05 March 2018    | [Data visualisation](#6-data-visualization) | Matej Novotny, Martin Bago |
-| 22 March 2018    | [Feature Engineering](#7-feature-engineering) | Ondrej Brichta, Filip Vitek |
-| 09 April    | Deep learning | Boris Vavrik, Michal Maly |
-| 23 April    | Deploying AI solutions | Peter Carsky, Jakub Macina |
 
 ### Winter semester 2017/2018
 | Date          | Theme           | Speakers  |
@@ -42,7 +35,17 @@ We organise regular meetups every second Monday at 4pm in FIIT. DSC supports tra
 | 27 November 2017    | [Feature Extraction & Natural Language Processing](#4-feature-extraction--natural-language-processing) | Jakub Sevcech, Jakub Macina |
 
 
-# Catalog of past lectures:
+### Summer semester 2017/2018
+| Date          | Theme           | Speakers  |
+| ------------- |-------------| -----|
+| 19 February 2018    | [Data integration](#5-data-integration) | Jakub Motyl, Matus Cimerman |
+| 05 March 2018    | [Data visualisation](#6-data-visualization) | Matej Novotny, Martin Bago |
+| 22 March 2018    | [Feature Engineering](#7-feature-engineering) | Ondrej Brichta, Filip Vitek |
+| 09 April    | Deep learning | Boris Vavrik, Michal Maly |
+| 23 April    | Deploying AI solutions | Peter Carsky, Jakub Macina |
+
+
+# Catalog of past lectures 2017/18:
 ### 1. Introduction to Data Science
 **Presentations:**
 1. [Welcome and Introduction to Data Science Club](https://www.slideshare.net/secret/dJspj1Tgnv7Dwt)  
@@ -106,3 +109,11 @@ by Michal Maly.
 Peter Carsky.
 2. _Real-Time Personalized Recommendations Using Embeddings_ (presentation not available)  
 by Jakub Macina.
+
+# Catalog of past lectures 2018/19:
+### 1. Intro and Basics to Data Science
+**Presentations:**
+1. [From zero to a data science project: corobiapolitici.sk](https://drive.google.com/open?id=1hhTc_wWjG27NuEbcUlsiW0ZwTBepcqGrKddKkb8EFgk)  
+by Dominik Csiba.
+2. [Julia - a language for fast numerical code as well as general programming](https://drive.google.com/open?id=1tg5nUGkpqkfP5GKrkTJ9gW-c5lAJSqlS)  
+by Renné Donner.
