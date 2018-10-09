@@ -19,7 +19,7 @@ We organise regular meetups every second Monday at 4pm in FIIT. DSC supports tra
 | Date          | Theme           | Speakers  |
 | ------------- |---------------| ---------|
 | 01 October 2018    | [Intro and Basics to Data Science](#1-intro-and-basics-to-data-science) | Dominik Csiba, Renné Donner |
-| 08 October 2018   | Exploratory Analysis | ??? |
+| 08 October 2018   | [Exploratory Analysis](#2-exploratory-analysis) | Martin Bago, Rudolf Jakša |
 | 22 October 2018     | Data Preprocessing, Handling | ??? |
 | 05 November 2018    | ML and Feature Engineering | ??? |
 | 19 November 2018    | Evaluation | ??? |
@@ -112,8 +112,13 @@ by Jakub Macina.
 
 # Catalog of past lectures 2018/19:
 ### 1. Intro and Basics to Data Science
-**Presentations:**
 1. [From zero to a data science project: corobiapolitici.sk](https://drive.google.com/open?id=1hhTc_wWjG27NuEbcUlsiW0ZwTBepcqGrKddKkb8EFgk)  
 by Dominik Csiba.
 2. [Julia - a language for fast numerical code as well as general programming](https://drive.google.com/open?id=1tg5nUGkpqkfP5GKrkTJ9gW-c5lAJSqlS)  
 by Renné Donner.
+
+### 2. Exploratory Analysis
+1. [How can we quicklz find out which kind of data we have](TBA)  
+by Martin Bago.
+2. [TBA](TBA)
+by Rudolf Jakša.
