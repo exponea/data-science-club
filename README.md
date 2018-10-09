@@ -118,7 +118,7 @@ by Dominik Csiba.
 by Renné Donner.
 
 ### 2. Exploratory Analysis
-1. [How can we quickly find out which kind of data we have](https://drive.google.com/file/d/1K62XaWMgNAfnNQh-VknphzUyYVn6RVkT)
+1. [How can we quickly find out which kind of data we have](https://drive.google.com/file/d/1K62XaWMgNAfnNQh-VknphzUyYVn6RVkT)  
 by Martin Bago.
-2. [Case study: Weather Predictions Aggregation System](http://meteo.mdj.sk/)
+2. [Case study: Weather Predictions Aggregation System](http://meteo.mdj.sk/)  
 by Rudolf Jakša.
