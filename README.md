@@ -20,9 +20,9 @@ We organise regular meetups every second Monday at 4pm in FIIT. DSC supports tra
 | ------------- |---------------| ---------|
 | 01 October 2018    | [Intro and Basics to Data Science](#1-intro-and-basics-to-data-science) | Dominik Csiba, Renné Donner |
 | 08 October 2018   | [Exploratory Analysis](#2-exploratory-analysis) | Martin Bago, Rudolf Jakša |
-| 22 October 2018     | Data Preprocessing, Handling | ??? |
-| 05 November 2018    | ML and Feature Engineering | ??? |
-| 19 November 2018    | Evaluation | ??? |
+| 22 October 2018     | [Data Preprocessing](#3-data-preprocessing) | Peter Krátky, Ondrej Brichta |
+| 05 November 2018    | [ML and Feature Engineering](#4-ML-and-feature-engineering) | Ján Dolinský, Róbert Magyar |
+| 19 November 2018    | [Evaluation](#5-evaluation) | Dominik Csiba, Viktor Gregor |
 
 # Past events
 
@@ -122,3 +122,21 @@ by Renné Donner.
 by Martin Bago.
 2. [Case study: Weather Predictions Aggregation System](http://meteo.mdj.sk/)  
 by Rudolf Jakša.
+
+### 3. Data Preprocessing
+1. Keď už relačná databáza nestačí...(TBA)  
+by Peter Krátky.
+2. [Spracovanie dát z eventov pomocou Sparku](https://docs.google.com/presentation/d/1RNn4q-S9Fxt8D21Muz6CPyTTnaf2t4420EkRl0ckURI/)  
+by Ondrej Brichta.
+
+### 4. ML and Feature Engineering
+1. Automatic Model Building for Time-Series with Application in Energy Industry(TBA)  
+by Ján Dolinský.
+2. [Machine Learning in Action - How We Doubled Revenue On A Game With Over A Billion Players](https://docs.google.com/presentation/d/1NOBG_ptyWDJ6ot4m01H2KTvif-ii1mUPgtaeEmOItvg)  
+by Róbert Magyar.
+
+### 5. Evaluation
+1. TBA  
+by Dominik Csiba.
+2. TBA  
+by Viktor Gregor.
