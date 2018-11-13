@@ -22,7 +22,7 @@ We organise regular meetups every second Monday at 4pm in FIIT. DSC supports tra
 | 08 October 2018   | Data Exporation in R & Weather Forecasting | Martin Bago, Rudolf Jakša |
 | 22 October 2018     | Databases & Apache Spark | Peter Krátky, Ondrej Brichta |
 | 05 November 2018    | Automatic Models & ML in Gaming | Ján Dolinský, Róbert Magyar |
-| 19 November 2018    | Biometrics & AB tests | Dominik Csiba, Viktor Gregor |
+| 12 November 2018    | Biometrics & AB tests | Dominik Csiba, Viktor Gregor |
 
 # Past events
 
