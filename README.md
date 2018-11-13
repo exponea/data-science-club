@@ -18,11 +18,11 @@ We organise regular meetups every second Monday at 4pm in FIIT. DSC supports tra
 ### Winter semester 2018/2019
 | Date          | Theme           | Speakers  |
 | ------------- |---------------| ---------|
-| 01 October 2018    | [Intro and Basics to Data Science](#1-intro-and-basics-to-data-science) | Dominik Csiba, Renné Donner |
-| 08 October 2018   | [Exploratory Analysis](#2-exploratory-analysis) | Martin Bago, Rudolf Jakša |
-| 22 October 2018     | [Data Preprocessing](#3-data-preprocessing) | Peter Krátky, Ondrej Brichta |
-| 05 November 2018    | [ML and Feature Engineering](#4-ML-and-feature-engineering) | Ján Dolinský, Róbert Magyar |
-| 19 November 2018    | [Evaluation](#5-evaluation) | Dominik Csiba, Viktor Gregor |
+| 01 October 2018    | Data-driven Politics & Julia language | Dominik Csiba, Renné Donner |
+| 08 October 2018   | Data Exporation in R & Weather Forecasting | Martin Bago, Rudolf Jakša |
+| 22 October 2018     | Databases & Apache Spark | Peter Krátky, Ondrej Brichta |
+| 05 November 2018    | Automatic Models & ML in Gaming | Ján Dolinský, Róbert Magyar |
+| 19 November 2018    | Biometrics & AB tests | Dominik Csiba, Viktor Gregor |
 
 # Past events
 
@@ -110,33 +110,33 @@ Peter Carsky.
 2. _Real-Time Personalized Recommendations Using Embeddings_ (presentation not available)  
 by Jakub Macina.
 
-# Catalog of past lectures 2018/19:
-### 1. Intro and Basics to Data Science
+# Catalog of past lectures Winter 2018:
+### 1. session
 1. [From zero to a data science project: corobiapolitici.sk](https://drive.google.com/open?id=1hhTc_wWjG27NuEbcUlsiW0ZwTBepcqGrKddKkb8EFgk)  
 by Dominik Csiba.
 2. [Julia - a language for fast numerical code as well as general programming](https://drive.google.com/open?id=1tg5nUGkpqkfP5GKrkTJ9gW-c5lAJSqlS)  
 by Renné Donner.
 
-### 2. Exploratory Analysis
+### 2. session
 1. [How can we quickly find out which kind of data we have](https://drive.google.com/file/d/1K62XaWMgNAfnNQh-VknphzUyYVn6RVkT)  
 by Martin Bago.
 2. [Case study: Weather Predictions Aggregation System](http://meteo.mdj.sk/)  
 by Rudolf Jakša.
 
-### 3. Data Preprocessing
+### 3. session
 1. Keď už relačná databáza nestačí...(TBA)  
 by Peter Krátky.
 2. [Spracovanie dát z eventov pomocou Sparku](https://docs.google.com/presentation/d/1RNn4q-S9Fxt8D21Muz6CPyTTnaf2t4420EkRl0ckURI/)  
 by Ondrej Brichta.
 
-### 4. ML and Feature Engineering
+### 4. session
 1. Automatic Model Building for Time-Series with Application in Energy Industry(TBA)  
 by Ján Dolinský.
 2. [Machine Learning in Action - How We Doubled Revenue On A Game With Over A Billion Players](https://docs.google.com/presentation/d/1NOBG_ptyWDJ6ot4m01H2KTvif-ii1mUPgtaeEmOItvg)  
 by Róbert Magyar.
 
-### 5. Evaluation
-1. TBA  
+### 5. session
+1. [Fingerprint recognition: From standard methods to small area matchers](https://docs.google.com/presentation/d/1KoWO9y8toGJ__MIfKlULaPqvvKDf9k1GEkSsY76_HUA/edit?usp=sharing)
 by Dominik Csiba.
-2. TBA  
+2. [Faster and better A/B tests with Bayesian inference](https://docs.google.com/presentation/d/1_lLF_GwCLH2-XMfyXWF8S-fuEo71ODteqhhJE5QTXlg/edit?usp=sharing)  
 by Viktor Gregor.
