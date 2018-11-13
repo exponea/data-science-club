@@ -136,7 +136,7 @@ by Ján Dolinský.
 by Róbert Magyar.
 
 ### 5. session
-1. [Fingerprint recognition: From standard methods to small area matchers](https://docs.google.com/presentation/d/1KoWO9y8toGJ__MIfKlULaPqvvKDf9k1GEkSsY76_HUA/edit?usp=sharing)
+1. [Fingerprint recognition: From standard methods to small area matchers](https://docs.google.com/presentation/d/1KoWO9y8toGJ__MIfKlULaPqvvKDf9k1GEkSsY76_HUA/edit?usp=sharing)  
 by Dominik Csiba.
 2. [Faster and better A/B tests with Bayesian inference](https://docs.google.com/presentation/d/1_lLF_GwCLH2-XMfyXWF8S-fuEo71ODteqhhJE5QTXlg/edit?usp=sharing)  
 by Viktor Gregor.
