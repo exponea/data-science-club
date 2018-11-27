@@ -15,6 +15,10 @@ We organise regular meetups every second Monday at 4pm in FIIT. DSC supports tra
 **Facebook page with events:** https://www.facebook.com/ExponeaSociety/
 
 # Past Events
+### Summer semester 2019
+
+Comming soon!
+
 ### Winter semester 2018
 | Date          | Theme           | Speakers  |
 | ------------- |---------------| ---------|
