@@ -42,31 +42,31 @@ We organise regular meetups every second Monday at 4pm in FIIT. DSC supports tra
 | 27 November 2017    | [Feature Extraction & Natural Language Processing](https://www.facebook.com/events/1918853005098858/) | Wanda Benesova, Jakub Ševčech, Jakub Mačina |
 
 # Past lectures and presentations Winter semester 2018:
-### 1. session
+### 1. Data-driven Politics & Julia language
 1. [From zero to a data science project: corobiapolitici.sk](https://drive.google.com/open?id=1hhTc_wWjG27NuEbcUlsiW0ZwTBepcqGrKddKkb8EFgk)  
 by Dominik Csiba.
 2. [Julia - a language for fast numerical code as well as general programming](https://drive.google.com/open?id=1tg5nUGkpqkfP5GKrkTJ9gW-c5lAJSqlS)  
 by Renné Donner.
 
-### 2. session
+### 2. Data Exporation in R & Weather Forecasting
 1. [How can we quickly find out which kind of data we have](https://drive.google.com/file/d/1K62XaWMgNAfnNQh-VknphzUyYVn6RVkT)  
 by Martin Bago.
 2. [Case study: Weather Predictions Aggregation System](http://meteo.mdj.sk/)  
 by Rudolf Jakša.
 
-### 3. session
+### 3. Databases & Apache Spark
 1. [Keď už relačná databáza nestačí...](https://docs.google.com/presentation/d/1cHpIWGe-pFfe_dpAc3uz6H-NSxNLwfuOmXbP083EQuk/)  
 by Peter Krátky.
 2. [Spracovanie dát z eventov pomocou Sparku](https://docs.google.com/presentation/d/1RNn4q-S9Fxt8D21Muz6CPyTTnaf2t4420EkRl0ckURI/)  
 by Ondrej Brichta.
 
-### 4. session
+### 4. Automatic Models & ML in Gaming
 1. [Automatic Model Building for Time-Series with Application in Energy Industry](https://drive.google.com/file/d/1jSHzi4eJ9s6_ZODQzm0z7EloZXu1siOb/)  
 by Ján Dolinský.
 2. [Machine Learning in Action - How We Doubled Revenue On A Game With Over A Billion Players](https://docs.google.com/presentation/d/1NOBG_ptyWDJ6ot4m01H2KTvif-ii1mUPgtaeEmOItvg)  
 by Róbert Magyar.
 
-### 5. session
+### 5. Biometrics & AB tests
 1. [Fingerprint recognition: From standard methods to small area matchers](https://docs.google.com/presentation/d/1KoWO9y8toGJ__MIfKlULaPqvvKDf9k1GEkSsY76_HUA/)  
 by Dominik Csiba.
 2. [Faster and better A/B tests with Bayesian inference](https://docs.google.com/presentation/d/1_lLF_GwCLH2-XMfyXWF8S-fuEo71ODteqhhJE5QTXlg/)  
